@@ -1,6 +1,6 @@
 [package]
 name = "pendu_rust"
-version = "0.1.0"
+version = "0.1.0-beta"
 edition = "2021"
 description = "Le fameux 'jeu du pendu' que tout le monde connait."
 
